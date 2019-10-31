@@ -1,0 +1,15 @@
+2019-10-31 11:04:03,316 INFO 753 [egg-schedule]: register schedule /Users/zhangxin/demo/vue-cli3-ssr-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-31 11:04:03,316 INFO 753 [egg-schedule]: register schedule /Users/zhangxin/demo/vue-cli3-ssr-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-31 11:04:03,316 INFO 753 [egg-schedule]: register schedule /Users/zhangxin/demo/vue-cli3-ssr-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-31 11:04:03,262 INFO 751 [egg-schedule]: register schedule /Users/zhangxin/demo/vue-cli3-ssr-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-31 11:04:03,262 INFO 751 [egg-schedule]: register schedule /Users/zhangxin/demo/vue-cli3-ssr-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-31 11:04:03,262 INFO 751 [egg-schedule]: register schedule /Users/zhangxin/demo/vue-cli3-ssr-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-31 11:04:03,228 INFO 750 [egg-schedule]: register schedule /Users/zhangxin/demo/vue-cli3-ssr-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-31 11:04:03,228 INFO 750 [egg-schedule]: register schedule /Users/zhangxin/demo/vue-cli3-ssr-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-31 11:04:03,228 INFO 750 [egg-schedule]: register schedule /Users/zhangxin/demo/vue-cli3-ssr-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-31 11:04:03,309 INFO 752 [egg-schedule]: register schedule /Users/zhangxin/demo/vue-cli3-ssr-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-31 11:04:03,309 INFO 752 [egg-schedule]: register schedule /Users/zhangxin/demo/vue-cli3-ssr-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-31 11:04:03,309 INFO 752 [egg-schedule]: register schedule /Users/zhangxin/demo/vue-cli3-ssr-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-31 11:04:06,770 INFO 743 [Timer] /Users/zhangxin/demo/vue-cli3-ssr-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 62753235ms at 2019-11-01 04:30:00.005
+2019-10-31 11:04:06,771 INFO 743 [Timer] /Users/zhangxin/demo/vue-cli3-ssr-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 46553229ms at 2019-11-01 00:00:00.000
+2019-10-31 11:04:06,772 INFO 743 [Timer] /Users/zhangxin/demo/vue-cli3-ssr-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 46554229ms at 2019-11-01 00:00:01.001

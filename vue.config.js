@@ -29,12 +29,12 @@ module.exports = {
       // 'vue': 'Vue'
     },
     plugins: [
-      new CompressionWebpackPlugin({
-        algorithm: "gzip",
-        test: new RegExp("\\.(" + productionGzipExtensions.join("|") + ")$"),
-        threshold: 10240,
-        minRatio: 0.8
-      }),
+      // new CompressionWebpackPlugin({
+      //   algorithm: "gzip",
+      //   test: new RegExp("\\.(" + productionGzipExtensions.join("|") + ")$"),
+      //   threshold: 10240,
+      //   minRatio: 0.8
+      // }),
       new webpack.IgnorePlugin(/^\.\/locale$/, /moment$/)
     ]
   },
@@ -47,7 +47,7 @@ module.exports = {
     hot: true,
     open: true,
     openPage: "",
-    port: "9888",
+    port: "9666",
     disableHostCheck: true,
     overlay: {
       warnings: true,

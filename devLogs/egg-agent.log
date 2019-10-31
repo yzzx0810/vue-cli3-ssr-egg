@@ -1,0 +1,10 @@
+2019-10-31 10:52:44,964 INFO 27428 [egg:logger] init all loggers with options: {"dir":"/Users/zhangxin/demo/vue-cli3-ssr-egg/devLogs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"vue-cli3-ssr-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-10-31 10:52:44,980 INFO 27428 [egg:core] dump config after load, 4ms
+2019-10-31 10:52:45,034 INFO 27428 [egg-watcher] Start watching: ["/Users/zhangxin/demo/vue-cli3-ssr-egg/app","/Users/zhangxin/demo/vue-cli3-ssr-egg/config","/Users/zhangxin/demo/vue-cli3-ssr-egg/mocks","/Users/zhangxin/demo/vue-cli3-ssr-egg/mocks_proxy","/Users/zhangxin/demo/vue-cli3-ssr-egg/app.js"]
+2019-10-31 10:52:45,035 INFO 27428 [egg-watcher] Start watching: "/Users/zhangxin/demo/vue-cli3-ssr-egg/app"
+2019-10-31 10:52:45,036 INFO 27428 [egg-watcher] Start watching: "/Users/zhangxin/demo/vue-cli3-ssr-egg/config"
+2019-10-31 10:52:45,037 INFO 27428 [egg-watcher] Start watching: "/Users/zhangxin/demo/vue-cli3-ssr-egg/mocks"
+2019-10-31 10:52:45,037 INFO 27428 [egg-watcher] Start watching: "/Users/zhangxin/demo/vue-cli3-ssr-egg/mocks_proxy"
+2019-10-31 10:52:45,038 INFO 27428 [egg-watcher] Start watching: "/Users/zhangxin/demo/vue-cli3-ssr-egg/app.js"
+2019-10-31 10:52:45,040 INFO 27428 [egg-watcher:agent] watcher start success
+2019-10-31 10:52:45,129 INFO 27428 [egg:core] dump config after ready, 8ms
